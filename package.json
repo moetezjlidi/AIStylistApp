@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@react-native-firebase/app": "^21.6.1",
+    "@react-native-firebase/firestore": "^21.6.1",
+    "axios": "^1.7.9",
+    "react-native-image-picker": "^7.2.3"
+  }
+}
